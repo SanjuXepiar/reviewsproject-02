@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+  margin-top: 20vh;
+}
+main {
+  margin-bottom: 0;
+  text-align: center;
+}
+.maincentre {
+  width: 30vw;
+  margin: auto;
+  border: 1px violet solid;
+  background: rgb(230, 227, 222);
+}
+.img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  box-shadow: 2px 2px 4px rgb(29, 131, 131);
+}
+.name {
+  text-transform: capitalize;
+  margin-bottom: 0;
+}
+.job {
+  text-transform: capitalize;
+  margin-bottom: 0;
+  color: rgb(29, 131, 131);
+}
+.buttonLeft:hover {
+  background: red;
+}
+.buttonRight:hover {
+  background: red;
+}
+.buttonLeft {
+  padding: 4px;
+  background: blueviolet;
+
+  border-color: rgb(230, 227, 222);
+  border-style: solid;
+}
+.buttonRight {
+  padding: 4px;
+  background: blueviolet;
+  border-color: rgb(230, 227, 222);
+  border-style: solid;
+}
+.random {
+  background: orangered;
+  color: white;
+  padding: 2px 4px;
+}
+.random:hover {
+  background: maroon;
+}
